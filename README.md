@@ -1,6 +1,6 @@
 # yoga
 
-Yoga App Design By Yusril Eka Mahendra
+Yoga App - Yusril Eka Mahendra
 
 ![Yoga](https://user-images.githubusercontent.com/65325397/92462203-5c3c6e80-f1f4-11ea-9b57-636e2c9b7c9d.png)
 
